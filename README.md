@@ -26,3 +26,7 @@ Java开发包：JDK 8。
 开发工具：Eclipse Photon。
 
 浏览器：谷歌浏览器。
+
+![image](https://github.com/user-attachments/assets/8e7abcd5-18d8-40c1-a6b2-a2acc363fa4b)
+![image](https://github.com/user-attachments/assets/22957073-4837-465f-bf01-a4edbd9ff6a4)
+
